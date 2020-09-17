@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Sun, 14 Oct 2018 15:03:09 at https://nb.ben-franklin-plumbing.com/marin/?gclid=CjwKCAjw0oveBRAmEiwAzf6_rFrummAXcYLncet84964bg9rXH26AFbrz4KGtxH41OlB8qFxc3RebBoCI4oQAvD_BwE
+(winhttrack https://nb.ben-franklin-plumbing.com/marin/?gclid=CjwKCAjw0oveBRAmEiwAzf6_rFrummAXcYLncet84964bg9rXH26AFbrz4KGtxH41OlB8qFxc3RebBoCI4oQAvD_BwE -O "/Users/g/websites/BFP Landing Page" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:03:11	Warning: 	Link https://nb.ben-franklin-plumbing.com/marin/?gclid=CjwKCAjw0oveBRAmEiwAzf6_rFrummAXcYLncet84964bg9rXH26AFbrz4KGtxH41OlB8qFxc3RebBoCI4oQAvD_BwE not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 seconds : 2 links scanned, 1 files written (20072 bytes overall) [6157 bytes received at 3078 bytes/sec], 20135 bytes transferred using HTTP compression in 2 files, ratio 23%
+(No errors, 1 warnings, 0 messages)
